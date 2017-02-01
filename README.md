@@ -6,7 +6,7 @@
 
 <img src="https://cloud.githubusercontent.com/assets/489815/22507278/d507bc62-e8bf-11e6-9cf5-cc72466f1b4d.png" width="150px">
 
-**排名不分大小先后**
+**排名不分大小先后**, 如有不妥, 可直接联系我删除.
 
 # 游戏
 ### <img src="http://www.brahma-game.com/Templates/fty/Images/logo.png" width="100px">云南梵天游科技有限公司
