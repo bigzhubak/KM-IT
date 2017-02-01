@@ -9,19 +9,19 @@
 **排名不分大小先后**
 
 # 游戏
-### 云南梵天游科技有限公司
+### <img src="http://www.brahma-game.com/Templates/fty/Images/logo.png" width="100px">云南梵天游科技有限公司
 * http://www.brahma-game.com
 
 >云南广电传媒集团旗下, 推出了手游 **永无止境**
 
 # 外包
-### <img src="http://www.lorstone.com/img/logo.svg" width="21px">络石软件设计
+### <img src="http://www.lorstone.com/img/logo.svg" width="22px">络石软件设计
 * http://www.lorstone.com
 
 >专注于複雜的单页WEB应用 vuejs + python + postgresql
 
 # 网络
-### 昆明俊云科技有限公司
+### <img src="http://www.junyun.jobs/templets/default/hm2/images/logo.png" width="100px">昆明俊云科技有限公司
 * http://www.junyun.jobs
 
 >为全球游戏玩家开发了奇游联机加速器, 支持索尼PS3/4、PS VR、微软Xbox、任天堂Wii、3DS全球联机加速.
