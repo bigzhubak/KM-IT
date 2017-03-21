@@ -44,6 +44,6 @@
 
 # 旅游
 ### 云南遇上时光科技有限公司
-* <a href="http://www.dahuoqu.com" target="_blank">http://www.dahuoqu.com</a> (官网已挂) 
+* <a href="http://www.56zuyin.com" target="_blank">http://www.56zuyin.com</a>
 
 > 云南遇上时光科技有限公司，是一家旅行体验至上的自由行平台，提供全程省心的一体化自由行服务。采用“互联网+金融+旅游”的全新产业模式，打造高品质的旅行产品
