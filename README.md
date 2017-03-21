@@ -15,7 +15,7 @@
 >云南广电传媒集团旗下, 推出了手游 **永无止境**
 
 # 外包
-### <img src="http://www.lorstone.com/img/logo.svg" width="22px">络石软件设计
+### <img src="https://www.lorstone.com/images/1.png" width="22px">络石软件设计
 * <a href="http://www.lorstone.com" target="_blank">http://www.lorstone.com</a>
 
 >专注于複雜的单页WEB应用 vuejs + python + postgresql
