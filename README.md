@@ -20,6 +20,18 @@
 
 >专注于複雜的单页WEB应用 vuejs + python + postgresql
 
+### <img src="http://aykj.net/front/images/top/logo.jpg" width="150px"> 昆明奥远科技有限公司
+* <a href="http://www.aykj.net" target="_blank">http://www.aykj.net</a>
+
+>号称中国百强建站公司，使用陈旧的jsp模板建站，自有效仿效仿720云的平台x360全景，以及号称快速模板建站的商仁天下，
+并且是中国最有良心企业百度->百度认证的云南代理，是一家典型的的外包公司
+
+### <img src="http://www.ynyes.com/Public/tiandu/images/top_logo.png" width="150px"> 天度集团
+* <a href="http://www.ynyes.com" target="_blank">http://www.ynyes.com</a>
+
+>云南本土算是最大（销售人员大概是开发人员的5倍+），耕耘时间最长的一家外包公司，采用世界上最好的语言php以及最好的国产框架ThinkPHP开发应用。
+
+
 # 网络
 ### <img src="http://www.junyun.jobs/templets/default/hm2/images/logo.png" width="100px">昆明俊云科技有限公司
 * <a href="http://www.junyun.jobs" target="_blank">http://www.junyun.jobs</a>
@@ -32,6 +44,7 @@
 
 >云南歌者科技有限公司是一家聚焦在互联网＋农业领域的科技企业， 以精准农业和智慧农业为方向，将互联网、物联网有效的实施在农业领域，为农业新型生产经营主体提供面向未来的技术解决方案和实施服务。
 
+### 
 ### 云南省国有资本运营商城管理有限公司
 * <a href="https://www.gznb.com" target="_blank">https://www.gznb.com</a>
 
@@ -41,6 +54,11 @@
 * http://www.ynmaker.com/
 
 > 唯恒农业（www.ynmaker.com)是唯恒投资的农业核心产业服务平台，为新型农业经营主体、政府及农业主管部门、科研院所及高校、涉农服务机构等提供农业社会化服务、农业数据服务、农企管理软件等产品及服务。
+
+### 云南银河之星科技有限公司
+* <a href="http://gstar.com.cn/" target="_blank">http://gstar.com.cn/</a>
+
+>云南本土一家农业+互联网公司，苗乡三七，白药的生产基地均采用银河之星的云平台监控，哦，去年号称要登新三板
 
 # 旅游
 ### 云南遇上时光科技有限公司
