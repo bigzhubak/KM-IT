@@ -65,3 +65,9 @@
 * <a href="http://www.56zuyin.com" target="_blank">http://www.56zuyin.com</a>
 
 > 云南遇上时光科技有限公司，是一家旅行体验至上的自由行平台，提供全程省心的一体化自由行服务。采用“互联网+金融+旅游”的全新产业模式，打造高品质的旅行产品
+
+# 电网
+### 云南犀鸟科技有限公司
+* <a href="http://www.cyzone.cn/r/20160506/23603.html" target="_blank">http://www.cyzone.cn/r/20160506/23603.html</a>
+
+> 号称要做云南省最好的IT企业。创始人声称自己的技术在昆明没几个人比他们几个厉害了，合伙人制创业企业。合伙人都是[云电同方](https://baike.baidu.com/item/%E4%BA%91%E5%8D%97%E4%BA%91%E7%94%B5%E5%90%8C%E6%96%B9%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/5235184?fr=aladdin)出来的高层。公司主要业务服务于云南电网，金属矿业。电网方面在用Qt开发桌面终端安全运维管理系统，金属矿业方面在为昆勘院做统一应用平台，OA等（React + Spring Boot + Flowable + PostGresql）。
